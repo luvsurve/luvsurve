@@ -88,17 +88,17 @@ Data Science M.Sc. student at TU Braunschweig with hands-on cloud data engineeri
 ### GitHub Stats
 
 <p align="left">
-<img src="https://github-stats-extended.vercel.app/api?username=luvsurve&show_icons=true&count_private=true&title_color=7f08b2&text_color=ffffff&icon_color=7f08b2&bg_color=1c1917&hide_border=true" alt="luvsurve's GitHub stats" />
+<img src="https://raw.githubusercontent.com/luvsurve/luvsurve/main/profile/stats.svg" alt="luvsurve's GitHub stats" />
 </p>
 
 <p align="left">
-<img src="https://streak-stats.demolab.com/?user=luvsurve&stroke=ffffff&background=1c1917&ring=7f08b2&fire=7f08b2&currStreakNum=ffffff&currStreakLabel=7f08b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="luvsurve's GitHub streak" />
+<img src="https://raw.githubusercontent.com/luvsurve/luvsurve/main/profile/streak.svg" alt="luvsurve's GitHub streak" />
 </p>
 
 <p align="left">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=luvsurve&bg_color=1c1917&color=ffffff&line=7f08b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub commits graph" />
+<img src="https://raw.githubusercontent.com/luvsurve/luvsurve/main/profile/activity-graph.svg" alt="GitHub commits graph" />
 </p>
 
 <p align="left">
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=luvsurve&langs_count=10&title_color=7f08b2&text_color=ffffff&icon_color=7f08b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top languages" />
+<img src="https://raw.githubusercontent.com/luvsurve/luvsurve/main/profile/top-langs.svg" alt="Top languages" />
 </p>
